@@ -1,0 +1,12 @@
+form {
+	width: 550px;
+}
+input {
+	border: 0;
+	outline: 0;
+	color: #40354e;
+	padding: 16px;
+	background-color: #f2f2f6;
+	border-radius: 4px;
+	width: 100%;
+}

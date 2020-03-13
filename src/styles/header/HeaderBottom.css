@@ -1,0 +1,5 @@
+.header-bottom-container {
+	display: flex;
+	justify-content: flex-start;
+	padding: 16px;
+}

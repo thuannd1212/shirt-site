@@ -1,13 +1,17 @@
 import React from 'react'
-import logo from './logo.svg'
 import './App.css'
 import './styles/reset.css'
-import Header from './components/Header'
+import Header from './components/header/Header'
+import Main from './components/main/Main'
 
 function App() {
-  return (
-    <Header />
-  )
+	return (
+		<div>
+			{/* //<Header /> */}
+			<Main />
+		</div>
+
+	)
 }
 
 export default App
